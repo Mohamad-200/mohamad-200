@@ -146,9 +146,9 @@ Teaching approach emphasizes project-based learning and connecting software engi
 
 - **Master of Software Engineering**
 - **Bachelor of Computer Information Systems**
-▪ ASP.NET
-▪ **Android Development. Ministry of labor**
-▪ Machine learning. SHAI Academy
+- ASP.NET
+- **Android Development. Ministry of labor**
+   Machine learning. SHAI Academy
 ▪ MBA. International college of London
 ▪ Internal Auditor techniques. Electricity company, Amman
 ▪ ICDL. Yarmouk University, Specto JO
