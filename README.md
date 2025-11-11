@@ -149,14 +149,14 @@ Teaching approach emphasizes project-based learning and connecting software engi
 - ASP.NET
 - **Android Development. Ministry of labor**
    Machine learning. SHAI Academy
-▪ MBA. International college of London
-▪ Internal Auditor techniques. Electricity company, Amman
-▪ ICDL. Yarmouk University, Specto JO
-▪ Certified Python Programmer. Python Institute
-▪ HackerRank Python
-▪ Google IT Support Certificate. Coursera
-▪ Git Certification. Great Learning
-▪ freeCodeCamp JS
-▪ The Work Under Pressure. Mercy Corps
-▪ Nano Technology
+- MBA. International college of London
+- Internal Auditor techniques. Electricity company, Amman
+- ICDL. Yarmouk University, Specto JO
+- Certified Python Programmer. Python Institute
+- HackerRank Python
+- Google IT Support Certificate. Coursera
+- Git Certification. Great Learning
+- freeCodeCamp JS
+- The Work Under Pressure. Mercy Corps
+- Nano Technology
 - Ongoing: Applied Machine Learning & AI Systems
